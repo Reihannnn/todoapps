@@ -1,0 +1,107 @@
+@media only screen and (max-width: 1300px) {
+  .container {
+    max-width: 80%;
+  }
+
+  #inputText {
+    width: 85%;
+  }
+
+  #addButton {
+    width: 9%;
+  }
+}
+@media only screen and (max-width: 985px) {
+  .container {
+    max-width: 80%;
+  }
+
+  #inputText {
+    width: 80%;
+  }
+
+  #addButton {
+    width: 12%;
+  }
+}
+
+@media only screen and (max-width: 730px) {
+  .container {
+    max-width: 600px;
+  }
+
+  #inputText {
+    width: 80%;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  #addButton {
+    width: 10%;
+    padding: 11.5px;
+    background-color: #008cff;
+    color: #fff;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    font-size: 14px;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .container {
+    max-width: 80%;
+  }
+
+  #inputText {
+    width: 70%;
+  }
+
+  #addButton {
+    width: 15%;
+  }
+}
+
+@media only screen and (max-width: 585px) {
+  .container {
+    max-width: 80%;
+  }
+
+  #inputText {
+    width: 70%;
+  }
+
+  #addButton {
+    width: 15%;
+  }
+}
+
+@media only screen and (max-width: 430px) {
+  .container {
+    max-width: 80%;
+  }
+
+  #inputText {
+    width: 62%;
+  }
+
+  #addButton {
+    width: 19%;
+  }
+}
+
+@media only screen and (max-width: 310px) {
+  .container {
+    max-width: 80%;
+  }
+
+  #inputText {
+    width: 55%;
+  }
+
+  #addButton {
+    width: 20%;
+    margin-left: -5px;
+  }
+}
